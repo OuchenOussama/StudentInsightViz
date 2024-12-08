@@ -33,7 +33,8 @@ Data preparation involved:
 The project utilizes D3.js for creating interactive visualizations. The JavaScript code is structured into distinct functions, each serving a specific purpose in data manipulation and rendering.
 
 ## Deployment
-The visualizations will be deployed to ObservableHQ, allowing for interactive sharing and exploration of the data.
+The visualizations will be deployed to Render, allowing for interactive sharing and exploration of the data.
+Access the deployed application here: [Live Demo on Render](https://studentinsightviz.onrender.com/)
 
 ## Conclusion
 This project provides valuable insights for school administration, educators, and policymakers to improve educational outcomes based on data-driven decisions.
