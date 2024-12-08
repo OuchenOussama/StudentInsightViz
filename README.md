@@ -37,6 +37,3 @@ The visualizations will be deployed to ObservableHQ, allowing for interactive sh
 
 ## Conclusion
 This project provides valuable insights for school administration, educators, and policymakers to improve educational outcomes based on data-driven decisions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
